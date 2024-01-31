@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StartPage.qml</file>
+        <file>Assets/background.png</file>
+        <file>FailPage.qml</file>
+        <file>Assets/Uber.png</file>
+        <file>Assets/biTaksi.jpeg</file>
+        <file>DrinkCount.qml</file>
+        <file>DrinkCounts/BeerCount.qml</file>
+        <file>DrinkCounts/GlassesPart.qml</file>
+        <file>DrinkCounts/ShotCount.qml</file>
+        <file>DrinkCounts/CocktailCount.qml</file>
+        <file>DrinkCounts/Indicator.qml</file>
+        <file>whatToDrink.qml</file>
+        <file>Assets/TAXI.jpg</file>
+        <file>Assets/Uber-removebg-preview.png</file>
+        <file>Assets/biTaksi-removebg-preview.png</file>
+        <file>Assets/whiskeys.jpg</file>
+        <file>Assets/whiskeys_cropped.jpg</file>
+        <file>Assets/whiskeys_croppedddd.jpg</file>
+        <file>Assets/alcShots.jpg</file>
+        <file>Assets/beerPhoto.jpeg</file>
+        <file>Assets/tequila.jpg</file>
+        <file>Assets/vodkaa.jpg</file>
+        <file>Assets/hassBeer.jpg</file>
+        <file>Assets/alcoholRPM.png</file>
+        <file>RpmIndicator.qml</file>
+        <file>DrinkCounts/TeqIndicator.qml</file>
+        <file>SafeCalculationPage.qml</file>
+    </qresource>
+</RCC>
